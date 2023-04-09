@@ -1,6 +1,6 @@
 # Password Generator App
 --- 
-![Image](passGenerator.png)
+
 
 ---
 
